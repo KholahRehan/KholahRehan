@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KholahRehan
 - 👀 I’m interested in learning and get on with u guys
-- 🌱 I’m currently learning at NED university of engineerin and technology
+- 🌱 I’m currently learning at NED university of engineering and technology
 - 💞️ I’m looking to collaborate on GITHUB
 - 📫 How to reach me through gmail;
 - khollahrehan123@gmail.com
